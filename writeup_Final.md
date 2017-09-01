@@ -17,21 +17,22 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: file:///./examples/Hist_DataSet.png "Visualization"
-[image2]: file:///./examples/TrainImgs.png "Sample Train Images"
-[image3]: file:///./examples/TestImgs.png "Sample Test Images"
-[image4]: file:///./examples/NormalizedImgs.png "Sample Normalized Train Images"
-[image5]: file:///./examples/AugmentedImgs.png "Sample Augmented Train Images"
-[image6]: file:///./examples/SampleImgs.png "Sample Images"
-[image7]: file:///./examples/softmax1.png "Softmax 1"
-[image8]: file:///./examples/filter1.png "Filter 1"
-[image9]: file:///./examples/filter2.png "Filter 2"
-[image10]: file:///./examples/5.png "Traffic Sign 5"
-[image11]: file:///./examples/6.png "Traffic Sign 6"
-[image12]: file:///./examples/trloss1.png "Training Loss"
-[image13]: file:///./examples/accuracy1.png "Accuracy"
-[image14]: file:///./examples/ConfusionMatrix.png "Confusion Matrix"
-[image15]: file:///./examples/softmax2.png "Softmax"
+[image1]: ./examples/Hist_DataSet.png "Visualization"
+[image2]: ./examples/TrainImgs.png "Sample Train Images"
+[image3]: ./examples/TestImgs.png "Sample Test Images"
+[image4]: ./examples/NormalizedImgs.png "Sample Normalized Train Images"
+[image5]: ./examples/AugmentedImgs.png "Sample Augmented Train Images"
+[image6]: ./examples/SampleImgs.png "Sample Images"
+[image7]: ./examples/softmax1.png "Softmax 1"
+[image8]: ./examples/filter1.png "Filter 1"
+[image9]: ./examples/filter2.png "Filter 2"
+[image10]: ./examples/5.png "Traffic Sign 5"
+[image11]: ./examples/6.png "Traffic Sign 6"
+[image12]: ./examples/trloss1.png "Training Loss"
+[image13]: ./examples/accuracy1.png "Accuracy"
+[image14]: ./examples/ConfusionMatrix.png "Confusion Matrix"
+[image15]: ./examples/softmax2.png "Softmax"
+
 
 
 ## Rubric Points
